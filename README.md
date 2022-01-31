@@ -4,8 +4,7 @@
 <a href="https://go.dev/dl/"><img src="https://img.shields.io/badge/go@main-1.17-blue?style=flat&logo=go"></a>
 <a href="https://github.com/ygorsimoes/dionisio/commits/main"><img src="https://img.shields.io/github/last-commit/ygorsimoes/dionisio/main"></a>
 
-
-<img alt="wine" align="right" src="https://i.imgur.com/mDZRo2K.gif" width="50%">
+<img alt="wine" src="https://i.imgur.com/mDZRo2K.gif" style="border-radius: 15px" align="right"  width="40%">
 <p>Dionisio is a tool that can automate the search for exploits and vulnerabilities. Written in Go and open source, Dionisio has an advanced search engine, in its most current version it is able to search the most important databases for exploits and web vulnerabilities.</p>
 
 <h1>🍷 License</h1>
